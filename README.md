@@ -16,7 +16,7 @@ Dit is een realtime chat applicatie gemaakt met socket.io en express. Hiermee ku
 
 ## Beschrijving
 
-[Live versie](reflect-chatroom.herokuapp.com/)
+[Live-versie](reflect-chatroom.herokuapp.com/)
 
 ## Kenmerken
 
