@@ -1,6 +1,6 @@
 
 # Chatroom Reflect for Effect
-Dit is een realtime chat applicatie gemaakt met socket.io en express. Hiermee kun je chatten met andere gebruikers. Het is realtime omdat berichten gelijk worden weergegeven aan alle aanwezige gebruikers in de chatroom.
+Dit is een realtime chat applicatie gemaakt met socket.io en express. Hiermee kun je chatten met andere gebruikers. Het is realtime omdat berichten gelijk worden weergegeven aan alle aanwezige gebruikers in de chatroom. Dit project staat online door middel van Heroku. 
 
 ![afbeelding](https://user-images.githubusercontent.com/26089533/170888133-d3289aaf-eade-4750-8ffb-0d15c0bdb1b7.png)
 
