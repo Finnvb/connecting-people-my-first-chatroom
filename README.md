@@ -20,12 +20,12 @@ Dit is een realtime chat applicatie gemaakt met socket.io en express. Hiermee ku
 
 ## Kenmerken
 
-     - HTML
-     - CSS
- - Javascript
-   - Express
-     -NodeJS
-    - Socket.io
+- HTML
+- CSS
+- Javascript
+- Express
+- NodeJS
+- Socket.io
 
 
 ## Installatie
@@ -33,8 +33,8 @@ Dit is een realtime chat applicatie gemaakt met socket.io en express. Hiermee ku
 ## Gebruik
 
 ## Bronnen
-[barebonechat](https://github.com/ju5tu5/barebonechat)
-[How to Deploy Node js Application on Heroku](https://www.youtube.com/watch?v=maNWl202vy4&t=211s)
+- [barebonechat](https://github.com/ju5tu5/barebonechat)
+- [How to Deploy Node js Application on Heroku](https://www.youtube.com/watch?v=maNWl202vy4&t=211s)
 
 ## Licentie
 
