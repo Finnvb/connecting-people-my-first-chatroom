@@ -19,13 +19,22 @@ Dit is een realtime chat applicatie gemaakt met socket.io en express. Hiermee ku
 [Live versie](reflect-chatroom.herokuapp.com/)
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+     - HTML
+     - CSS
+ - Javascript
+   - Express
+     -NodeJS
+    - Socket.io
+
 
 ## Installatie
 
 ## Gebruik
 
 ## Bronnen
+[barebonechat](https://github.com/ju5tu5/barebonechat)
+[How to Deploy Node js Application on Heroku](https://www.youtube.com/watch?v=maNWl202vy4&t=211s)
 
 ## Licentie
 
